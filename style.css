@@ -1,0 +1,82 @@
+body {
+    background-color:#1e1e2e;
+    color:#cdd6f4;
+    font-family: sans-serif;
+}
+
+.titles {
+    text-align: center;
+    background-color:#313244;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.link {
+    color: #89dceb;
+}
+
+.link:visited {
+    color: #b4befe;
+}
+
+.link:active {
+    color:#b4befe;
+}
+
+ul {
+    text-align: left;
+    list-style-position: inside;
+    background-color:#313244;
+    width: 50%;
+    margin: 0 auto;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #313244;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.extitle {
+    text-align: center;
+    background-color: #313244;
+    width: 50%;
+    margin: 0 auto;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.desc {
+    text-align: center;
+    background-color: #313244;
+    width: 50%;
+    margin: 0 auto;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.ingredients {
+    text-align: center;
+    background-color: #313244;
+    width: 50%;
+    margin: 0 auto;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
